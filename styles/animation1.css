@@ -1,0 +1,8 @@
+.animation1 {
+    width: 100%;
+    height: 100%;
+    border: none;  /* Initial state: no border */
+    transition: border 0s;  /* Add a transition effect */
+    transition: transform 0s, opacity 0s;  /* Add transition effects */
+  }
+
